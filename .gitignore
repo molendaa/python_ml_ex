@@ -1,0 +1,8 @@
+*.csv
+*.dat
+*.names
+*.data
+/data/*
+.DS_Store
+.ipynb_*
+*.scpt
